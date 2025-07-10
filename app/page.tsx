@@ -138,7 +138,7 @@ export default function Home() {
               <div className="max-w-xl">
                 <h1 className="text-4xl md:text-5xl font-bold mb-4 text-left">Your Insight Into Real Estate</h1>
                 <p className="text-xl md:text-2xl font-medium mb-8 text-left">
-                  Ask Homebot what your property is worth
+                  Ask Homebot what your property will be worth
                 </p>
               </div>
             </div>
@@ -167,9 +167,10 @@ export default function Home() {
                   <div className="absolute left-6 top-1/2 transform -translate-y-1/2 text-white/70 pointer-events-none">
                     <AnimatedPlaceholder
                       placeholders={[
-                        "What is my property worth in the next five years?",
-                        "Tour me around properties in Columbus Circle",
-                        "Is it a good time to downsize my 3 bedroom apartment?",
+                        "What will my property be worth in five years?",
+                        "How about similar properties?",
+                        "How much will renovations increase my home's value?",
+                        "What will this neighborhood be like in five years?",
                       ]}
                     />
                   </div>

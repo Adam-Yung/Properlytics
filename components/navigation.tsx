@@ -101,7 +101,7 @@ export default function Navigation() {
       >
         <div className="w-full max-w-7xl mx-auto flex items-center justify-between">
           <Link href="/" className="font-bold text-xl flex items-center gap-2" onClick={() => setIsMenuOpen(false)}>
-            Properlytics
+            Properlytic
           </Link>
 
           {/* Desktop Navigation */}

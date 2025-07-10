@@ -14,7 +14,7 @@ export default function SignInPage() {
           <div className="bg-white dark:bg-gray-800 rounded-2xl shadow-lg overflow-hidden">
             <div className="p-8">
               <h1 className="text-2xl font-bold mb-2">Sign In</h1>
-              <p className="text-gray-500 dark:text-gray-400 mb-6">Welcome back to Properlytics</p>
+              <p className="text-gray-500 dark:text-gray-400 mb-6">Welcome back to Properlytic</p>
 
               <form className="space-y-6">
                 <div className="space-y-2">
